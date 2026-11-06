@@ -2,7 +2,7 @@
 
 用于超星慕课《科研诚信与学术规范》的浏览器用户脚本，集成参考题库，提供视频自动播放、视频中途弹题处理、课后题自动答题与提交，以及完成后自动继续下一节的功能。
 
-本项目基于 [JackZxj/auto-chaoxing-mooc](https://github.com/JackZxj/auto-chaoxing-mooc) 的脚本思路和基础版本进行改进，并在使用过程中持续迭代。感谢原作者提供基础脚本和题库整理入口。
+本项目基于 [JackZxj/auto-chaoxing-mooc](https://github.com/JackZxj/auto-chaoxing-mooc) 的脚本思路和基础版本进行改进。感谢原作者提供基础脚本和题库整理入口。
 
 > 题库不完整，答案也不保证全部正确。匹配不到可用答案时，脚本会随机选择一个选项，因此有时无法及格，需要自行检查并修改答案。
 
