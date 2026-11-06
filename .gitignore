@@ -1,0 +1,6 @@
+.env
+.env.*
+node_modules/
+*诊断*.json
+*核对*.json
+*.log
